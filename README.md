@@ -1,10 +1,5 @@
 Positivus Landing Page Design — A clean, responsive web page built with HTML and CSS for a digital marketing agency focused on driving online success. Showcasing services like SEO, PPC, social media marketing, and content creation through a modern, professional layout.
 
-## 💼 Positivus Landing Page Design
-
-A modern, responsive landing page built with **HTML** and **CSS** for **Positivus**, a digital marketing agency helping businesses grow online.
-The page highlights the agency’s core services — **SEO**, **PPC**, **social media marketing**, and **content creation** — in a clean, user-friendly layout.
-
 ---
 ### 🧠 **Overview**
 
@@ -15,9 +10,7 @@ It combines professional design principles with simplicity to create a strong on
 
 ### ✨ **Features**
 
-* 📱 Fully responsive layout adaptable to all screen sizes
 * 🎨 Clean, professional design and color balance
-* 🧭 Easy navigation with structured content sections
 * 💡 Modern typography and call-to-action emphasis
 
 ---
